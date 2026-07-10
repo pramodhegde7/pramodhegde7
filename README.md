@@ -28,6 +28,14 @@ A full-stack student registration system built using React.js, Node.js, Express.
 - LinkedIn: https://linkedin.com/in/pramodhegde7
 - Email: pramodhegde2004@gmail.com
 
+## 📊 GitHub Stats
+
+![Pramod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodhegde7&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodhegde7&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pramodhegde7&theme=tokyonight)
 ---
 
 ⭐ Thanks for visiting my profile!
+
