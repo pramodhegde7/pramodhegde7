@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pramod Hegde 👋
 
-<!--
-**pramodhegde7/pramodhegde7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate from Seshadripuram College, Tumakuru  
+💼 Web Development Intern at DGSumukha Tech Solutions LLP  
+🌱 Currently learning React, Node.js, Cloud & DevOps
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- React.js
+- Node.js
+- Express.js
+- MySQL
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### 🎓 Student Registration System
+A full-stack student registration system built using React.js, Node.js, Express.js and MySQL.
+
+*(Ayush-Link Clinic Management System will be added soon.)*
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/pramodhegde7
+- Email: pramodhegde2004@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
