@@ -1,41 +1,84 @@
-# Hi, I'm Pramod Hegde 👋
+<h1 align="center">Hi 👋, I'm Pramod Hegde</h1>
 
-🎓 BCA Graduate from Seshadripuram College, Tumakuru  
-💼 Web Development Intern at DGSumukha Tech Solutions LLP  
-🌱 Currently learning React, Node.js, Cloud & DevOps
+<h3 align="center">
+BCA Graduate • Aspiring Full Stack Web Developer • Python & JavaScript Enthusiast
+</h3>
 
-## 💻 Tech Stack
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Graduate from Seshadripuram College, Tumakuru
+- 🎯 Currently pursuing MCA at Manipal Institute of Technology (MAHE) 
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning React, Node.js, Cloud & DevOps
+- 🚀 Interested in building real-world web applications
+- 📍 Karnataka, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 - Python
 - JavaScript
 - HTML5
 - CSS3
-- React.js
+
+### Frontend
+
+- React
+- Bootstrap
+
+### Backend
+
 - Node.js
 - Express.js
+- Flask
+
+### Database
+
 - MySQL
-- Git & GitHub
+- MongoDB Atlas
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
 
 ## 🚀 Featured Projects
 
+### 🏥 Ayush Link
+
+Clinic Appointment & Live Queue Management System
+
+**Tech:** Flask • MongoDB Atlas • HTML • CSS • JavaScript
+
+🔗 https://github.com/pramodhegde7/Aayush-project
+
+---
+
 ### 🎓 Student Registration System
-A full-stack student registration system built using React.js, Node.js, Express.js and MySQL.
 
-*(Ayush-Link Clinic Management System will be added soon.)*
+Student Registration System with CRUD Operations
 
-## 📫 Connect with Me
+**Tech:** React • Node.js • Express.js • MySQL
+
+🔗 https://github.com/pramodhegde7/student-registration-system
+
+---
+
+## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/pramodhegde7
+- GitHub: https://github.com/pramodhegde7
 - Email: pramodhegde2004@gmail.com
 
-## 📊 GitHub Stats
-
-![Pramod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodhegde7&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodhegde7&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pramodhegde7&theme=tokyonight)
 ---
 
 ⭐ Thanks for visiting my profile!
-
